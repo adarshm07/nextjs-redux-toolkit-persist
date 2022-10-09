@@ -1,1 +1,1 @@
-# Template for NextJS Redux Toolkit And Redux Persist
+# NextJS Redux Toolkit And Redux Persist
